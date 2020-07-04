@@ -1,0 +1,15 @@
+{
+  "name": "rianma",
+  "version": "0.0.1-alpha.1",
+  "description": "the `rianma` cli",
+  "bin": {
+    "rianma": "src/cli.js"
+  },
+  "repository": "rianma/rianma",
+  "author": {
+    "name": "rianma",
+    "email": "mmg9403@gmail.com"
+  },
+  "scripts": {},
+  "license": "MIT"
+}
